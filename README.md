@@ -19,7 +19,7 @@
   📦 Installation
 </h2>
 
-<pre><code>go install github.com/ps1-blacklist/wpfather@latest</code></pre>
+<pre><code>GOPROXY=direct go install github.com/ps1-blacklist/wpfather@latest</code></pre>
 
 <hr>
 
