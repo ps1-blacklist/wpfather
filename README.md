@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="40" height="40" />
-  WPFather — WordPress Vulnerability Scanner
+  🛡️ WPFather — WordPress Vulnerability Scanner
 </h1>
 
 <p align="center">
@@ -16,8 +15,7 @@
 <hr>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" height="30" />
-  Installation
+  📦 Installation
 </h2>
 
 <pre><code>go install github.com/ps1-blacklist/wpfather@latest</code></pre>
@@ -25,8 +23,7 @@
 <hr>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" />
-  Features
+  ⭐ Features
 </h2>
 
 <marquee behavior="scroll" direction="left" scrollamount="3">
@@ -66,8 +63,7 @@
 <hr>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
-  Usage
+  🚀 Usage
 </h2>
 
 <p>No flags, no arguments. Run the binary and follow the prompts:</p>
@@ -84,8 +80,7 @@ Type 'yes' to confirm you are authorized to scan example.com:
 <hr>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="30" height="30" />
-  Responsible Use
+  ⚠️ Responsible Use
 </h2>
 
 <p>Only run WPFather against systems you own or have explicit written authorization to test. Unauthorized scanning may violate the CFAA or equivalent laws in your jurisdiction.</p>
@@ -93,8 +88,7 @@ Type 'yes' to confirm you are authorized to scan example.com:
 <hr>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="30" height="30" />
-  Author
+  👨‍💻 Author
 </h2>
 
 <p>Built by <strong>ps1-blacklist</strong> — Red Squad Bangladesh</p>
@@ -104,8 +98,7 @@ Type 'yes' to confirm you are authorized to scan example.com:
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="40" height="40" />
+  ❤️ 👍
 </p>
 
 <p align="center"><sub>Made with ❤️ for the security community</sub></p>
