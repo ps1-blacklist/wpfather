@@ -4,7 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-Go-00ADD8?style=flat-square&logo=go" alt="Go">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/ps1-blacklist/wpfather?style=flat-square&color=yellow" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/platform-cross--platform-blue?style=flat-square" alt="Platform">
 </p>
 
